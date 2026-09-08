@@ -1,0 +1,10 @@
+node_modules/
+.expo/
+dist/
+web-build/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.log
+.DS_Store
